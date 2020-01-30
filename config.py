@@ -1,0 +1,13 @@
+width = 400
+height = 400
+step = 5
+food_divisor = 100
+energy_cost = 0.002
+display_step = 2
+hours = 20
+food_colour = (255, 255, 255)
+starting_speed = 1
+starting_sense = 1
+starting_size = 1
+spoilage_days = 1
+prey_food_value = 1
